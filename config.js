@@ -9,7 +9,7 @@ const {
 global.bot = {
     name: "CKPTW",
     prefix: /^[°•π÷×¶∆£¢€¥®™+✓_=|/~!?@#%^&.©^]/i,
-    phoneNumber: "628xxxxxxxxxx", // Ignore if you use QR code for authentication.
+    phoneNumber: "62858928324761", // Ignore if you use QR code for authentication.
     thumbnail: "https://e1.pxfuel.com/desktop-wallpaper/943/672/desktop-wallpaper-whatsapp-bot-what-is-it-and-how-to-use-messenger-chatbots-chatbot.jpg",
     groupChat: "https://chat.whatsapp.com/FlqTGm4chSjKMsijcqAIJs" // Don't forget to join, friends!
 };
@@ -43,9 +43,9 @@ global.msg = {
 // Owner & CoOwner.
 global.owner = {
     name: "John Doe",
-    number: "628xxxxxxxxxx",
+    number: "62858928324761",
     organization: "jdoe.org",
-    co: ["628xxxxxxxxxx"]
+    co: ["62858928324761"]
 };
 
 // Sticker.
